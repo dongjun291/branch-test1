@@ -1,1 +1,2 @@
 "hotfix test" 
+"new function added" 
