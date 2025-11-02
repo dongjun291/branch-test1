@@ -1,2 +1,1 @@
-"hotfix test" 
-"hotfix team's solution" 
+"hotfix test modified differently in conflict-test" 
